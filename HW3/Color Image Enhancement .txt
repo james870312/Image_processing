@@ -1,0 +1,45 @@
+Image Processing Homework #3
+
+ 
+
+題目：Color Image Enhancement
+
+ 
+
+Given four color images, enhance the four color images in the RGB, HSI, and L*a*b* color spaces.
+
+Note that the hue (H) component will not be changed and all the final resulting images should be transformed back to the RGB color space for displaying.
+
+ 
+
+Platform:
+
+(1) Matlab, python, or others … 只要讓助教在windows電腦上不必額外安裝任何軟體就能執行並顯示結果即可。
+
+(2) 結果需show出原始color images與強化處理後的color images。
+
+ 
+
+Test images:已放在e-course2課程平台中，請自行下載，影像格式為256X256的bmp檔。
+
+
+
+繳交方式：
+
+(1) 請將source code、可執行檔、及homework報告，以學號為名稱建一個資料夾，將所有檔案置於此資料夾中，並將資料夾壓縮之後上傳至e-course2課程平台。
+
+(2) 請將書面報告列印後繳交到Lab 308A。
+
+報告格式：請參照上課投影片ch0 (p. 9)中所規定。
+
+繳交期限：Dec. 18, 2020
+
+PS:
+
+(1) 抄襲者一律零分計算。
+
+(2) 報告內請詳述程式執行流程。
+
+(3) call function 會扣分。
+
+(4) 請附上 test images 在資料夾內，否則會斟酌扣分。
